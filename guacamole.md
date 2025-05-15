@@ -4,4 +4,5 @@
 *lime £0.50
 *salt £0.50
 ## Instructions
+*put one avocado into a bowl.
 

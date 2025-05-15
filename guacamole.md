@@ -4,4 +4,4 @@
 *lime £0.50
 *salt £0.50
 ## Instructions
-*peel the avocado
+* peel the avocados and put them into a bowl.
